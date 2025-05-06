@@ -1,5 +1,4 @@
 .x-powering {
-    right: 1;
     text-align: right;
-    position: absolute;
+    position: fixed bottom;
 }
