@@ -1,6 +1,6 @@
 .x-powering {
     text-align: right;
-    bottom: auto 0%;
-    right: 0;
+    bottom: auto;
+    right: auto;
     position: absolute bottom;
 }
